@@ -111,6 +111,7 @@
 ### 版本及部署说明
 
 - [fabric-1.4.0](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatis.html)
-- [手动搭建fabric]([https://zhangfuli.github.io/2020/03/29/%E6%89%8B%E5%8A%A8%E6%90%AD%E5%BB%BAhypeledger-fabric/](https://zhangfuli.github.io/2020/03/29/手动搭建hypeledger-fabric/))
+- [手动搭建fabric多节点网络](https://zhangfuli.github.io/2020/03/29/手动搭建hypeledger-fabric/)
 - [Node SDK 安装说明](https://zhangfuli.github.io/2020/04/07/fabric-node-sdk-1-4-0/)
-- [测试链码，fabric开发者模式]([https://zhangfuli.github.io/2020/04/02/fabric%E5%BC%80%E5%8F%91%E8%80%85%E6%A8%A1%E5%BC%8F/](https://zhangfuli.github.io/2020/04/02/fabric开发者模式/))
+- [测试链码，fabric开发者模式](https://zhangfuli.github.io/2020/04/02/fabric开发者模式/)
+
