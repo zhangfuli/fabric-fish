@@ -6,7 +6,7 @@
 
 2、流程如下所示：
 
-<img src="./images/bg.png" alt="bg" style="zoom:50%;" />
+<img src="./images/bg.png" alt="bg" style="zoom:10%;" />
 
 3、各主要干系人的需求如下：
 
