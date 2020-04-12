@@ -6,23 +6,23 @@
 
 2、流程如下所示：
 
-<img src="./images/bg.png" alt="bg" width="500" height="313" align="middle"/>
+<img src="./images/bg.png" alt="bg" width="500" height="280" align="center"/>
 
 3、各主要干系人的需求如下：
 
-<img src="./images/req.png" alt="req" width="500" height="400" align="middle"/>
+<img src="./images/req.png" alt="req" width="500" height="420" align="center"/>
 
 ### 基础架构
 
 1、网络架构如下所示，该网络架构为Hyperleder fabric网络结构，org1、org2分别为两个组织代表两个国家，分别为出口国与进口国。在org1中，分别有渔民、出口商、政府，其中政府为锚节点，用于在两个互不信任的网络之间通信；在org2中有进口商、餐厅、政府，同样的政府为锚节点。图示中，每个节点都含有channel1，用于查看三文鱼的供应情况，三文鱼的具体信息包括：捕捞的id、捕捞地点、捕捞时间、捕捞船只、捕捞运输温度、当前所有者，该网络结构中每个人都能查看三文鱼的情况，除此之外，渔民能够添加三文鱼。此外，为了保证信息的保密性，各个交易双方之间含有一个channel进行沟通价格。
 
-<img src="./images/network.png" alt="network" width="500" height="613" align="middle"/>
+<img src="./images/network.png" alt="network" width="500" height="613" align="center"/>
 
 
 
 2、架构图如下所示，背后的渔民、出口商、进口商、当地政府、餐厅根据智能合约的约束形成一条三文鱼的交易链，这个链是公开的，普通消费者可以通过终端查看自己吃的三文鱼是怎么一步一步走到自己的餐桌上。图中账本数据全部储存在各节点的**couchdb**中。
 
-<img src="./images/artitecture.png" alt="artitecture" width="500" height="413" align="middle"/>
+<img src="./images/artitecture.png" alt="artitecture" width="500" height="413" align="center"/>
 
 
 
